@@ -38,7 +38,7 @@ console.print_dashes
 console.print_players(items)
 
    
-CODE()
+COMBINATION()
 
 get_code:
    random number between 1000-9999
@@ -65,3 +65,4 @@ print_dashes:
 print_players(dict)
    prints out a name, their guess, and the hint
       
+EXTRA()
