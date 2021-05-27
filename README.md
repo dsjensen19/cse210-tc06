@@ -43,7 +43,8 @@ COMBINATION()
 get_code:
    random number between 1000-9999
    
-   
+
+#Tyson
 PLAYER()
    
    get_name:
@@ -58,7 +59,7 @@ BOARD()
    get_hint(code, guess):
       generates hint from code and returns it
       
-
+#Tyson
 CONSOLE()
 print_dashes:
    prints a line of dashes
