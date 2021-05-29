@@ -47,7 +47,7 @@ get_code:
 #Tyson
 PLAYER()
    
-   get_name:
+   get_name(1 or 2 to cat into the prompt):
       input name statement
       return name
    start_turn(name):
