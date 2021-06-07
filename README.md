@@ -37,7 +37,7 @@ put_outputs:
 console.print_dashes
 console.print_players(items)
 
-   
+Seth
 COMBINATION()
 
 get_code:
@@ -54,7 +54,7 @@ PLAYER()
       print "Player {name}'s turn"
    get_guess():
       return response to "what is your guess?"
-      
+     
 BOARD()
    get_hint(code, guess):
       generates hint from code and returns it
