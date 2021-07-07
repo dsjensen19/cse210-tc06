@@ -1,4 +1,7 @@
 # cse210-tc06
+AUTHOR NAMES: Tyson Brost, Derek Jensen, Seth Burton, Chris Patrinovich
+
+
 
 DIRECTOR()
 objects:
